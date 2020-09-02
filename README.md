@@ -1,2 +1,3 @@
 # ASEDRC
-A Synchronized Event Driven Risc Chip
+Documents and implementations of ASEDRC that stand for "A Synchronized Event Driven Risc Chip."
+
