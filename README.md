@@ -1,3 +1,3 @@
-# ASEDRC
-Documents and implementations of ASEDRC that stand for "A Synchronized Event Driven Risc Chip."
+# ASEDPC
+Documents and implementations of ASEDPC that stand for "ASynchronized Event Driven Performance Unit."
 
